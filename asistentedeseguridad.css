@@ -1,0 +1,14 @@
+.fondo {
+    background-color: rgb(255, 255, 255);
+}
+.MiTexto {
+    font-size: 10px;
+    color: rgb(255, 0, 0);
+}
+.Logo-head {
+    width: 144.78px;
+    height: 27px;
+}
+.menu a {
+    margin-right: 15px;
+    }

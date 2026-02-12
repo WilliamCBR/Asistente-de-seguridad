@@ -7,15 +7,45 @@
 
 .header {
  display : flex;
-  width: 50%;
+  width: 100%;
+  height: 100px;
   padding: 20px 60px;
   align-items: center;
   min-height: auto;
-  gap: 60px;
-  flex-direction: column
+  flex-direction: column;
+  background-color: rgb(12, 167, 187);
+
 }
+
+.menu 
+  
+
 
 .header > .Candadoimg {
   display: inline-block;
   vertical-align: middle;
 }
+
+
+
+
+.titulo { 
+  letter-spacing: normal;
+  font-size: 27px;
+  display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+gap: 20px;
+}
+
+.titulo1 
+
+
+
+.titulo3 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  
+};
